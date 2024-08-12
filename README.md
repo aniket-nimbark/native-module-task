@@ -9,7 +9,7 @@ Here are the steps to run the project.
 Clone the Project
 
 ```bash
-  git clone https://github.com/aniket-nimbark/native-module-demo.git
+  git clone https://github.com/aniket-nimbark/native-module-task.git
 ```
 
 Go to the project directory
